@@ -111,7 +111,7 @@ pip install streamlit pandas numpy plotly psycopg2-binary sqlalchemy
 streamlit run app.py
 ```
 
-## Showcase for Recruiters
+## Showcase 
 
 This project demonstrates advanced data engineering skills including:
 
