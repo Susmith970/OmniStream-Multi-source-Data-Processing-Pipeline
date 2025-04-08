@@ -122,4 +122,4 @@ This project demonstrates advanced data engineering skills including:
 - Advanced data visualization
 - System observability implementation
 
-The project is specifically designed to showcase technical capabilities that are highly relevant for senior data engineering roles.
+
