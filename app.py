@@ -328,7 +328,7 @@ p, div, span, li, td, th, caption, h1, h2, h3, h4, h5, h6 {
 
 # Add sidebar with additional information
 with st.sidebar:
-    st.image("/Users/susmithreddy/realestate/real-estate-app/src/components/logo.svg", width=150)
+    st.image("logo.svg", width=150))
     st.markdown("## OmniStream Controls")
     st.markdown("---")
     st.markdown("### Data Sources")
